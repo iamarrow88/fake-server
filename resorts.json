@@ -1,0 +1,128 @@
+[
+  {
+    "id": 0,
+    "name": "HOTEL JEROME",
+    "address": "2101 TIDEWATER ANCHORAGE AK 99501-1040 USA",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci facilis vitae molestiae, illo maxime nemo nulla doloribus, quos, ipsum autem sequi laborum perferendis tenetur soluta ipsam. Sint adipisci aspernatur eum!",
+    "city": "Anchorage"
+  },
+  {
+    "id": 1,
+    "name": "LITTLE NELL",
+    "address": "1601 SHIP ANCHORAGE AK 99501-1804 USA",
+    "description": "Nulla aspernatur, nobis odit id laudantium perferendis ullam veniam hic vel asperiores? Quos a commodi ad eos qui fugiat veritatis exercitationem, repellat illum officia amet itaque voluptatem est ex! Consectetur.",
+    "city":  "Anchorage"
+  },
+  {
+    "id": 2,
+    "name": "FOUR SEASONS RESORT VAIL",
+    "address": "222 N LA SALLE CHICAGO IL 60601-1056 USA",
+    "description": "Laboriosam ullam repellendus, fugit earum consequuntur voluptatibus sed temporibus enim doloremque excepturi placeat error dolorum non iste provident corrupti deleniti maiores atque labore. Maxime fugiat consequuntur eaque debitis aut deleniti.",
+    "city":  "Chicago"
+  },
+  {
+    "id": 3,
+    "name": "THE PLAZA",
+    "address": "7 PENN NEW YORK NY 10001-0027 USA",
+    "description": "Neque eius nemo ad laudantium, aspernatur modi ipsa nulla quo iste praesentium veniam iure cumque debitis, delectus sunt porro corporis, alias aperiam mollitia ratione. Quam ut necessitatibus delectus quis doloremque?",
+    "city":  "New York"
+  },
+  {
+    "id": 4,
+    "name": "ENCORE",
+    "address": "222 N LA SALLE CHICAGO IL 60601-1104 USA",
+    "description": "Optio quidem laborum eaque ad quam debitis voluptatem explicabo pariatur aut repudiandae. Beatae ullam, totam dolorem natus dolores illo est at explicabo vitae ipsam necessitatibus aperiam quo dolorum, cumque temporibus!",
+    "city":  "Chicago"
+  },
+  {
+    "id": 5,
+    "name": "THE PENINSULA BEVERLY HILLS",
+    "address": "3900 DOE HOMEWOOD CA 96141-1206 USA",
+    "description": "Doloribus illum rem odio veniam eveniet suscipit, quia, culpa vitae quidem laudantium cupiditate molestias ipsum, dolor dicta eos et id sapiente soluta incidunt laboriosam velit animi! Maxime dicta ab libero.",
+    "city":  "Hollywood"
+  },
+  {
+    "id": 6,
+    "name": "FOUR SEASONS HOTEL LOS ANGELES AT BEVERLY HILLS",
+    "address": "4100 ANTLER HOMEWOOD CA 96141-1147 USA",
+    "description": "Distinctio fuga dicta, laboriosam nemo, praesentium eligendi inventore alias dolores tempora, labore at quia in esse dolore velit? Error enim odio sequi veritatis laudantium voluptas magnam recusandae sapiente! Aperiam, blanditiis?",
+    "city":  "Hollywood"
+  },
+  {
+    "id": 7,
+    "name": "BELLAGIO",
+    "address": "4700 W LAKE HOMEWOOD CA 96141-1100 USA",
+    "description": "Culpa necessitatibus corporis repellendus assumenda ipsa nemo at quisquam inventore. Quo ullam dolor nesciunt nihil, tempora voluptas, beatae voluptate culpa, quidem et eveniet sit sequi ex debitis maiores. Officiis, tenetur!",
+    "city":  "Hollywood"
+  },
+  {
+    "id": 8,
+    "name": "Cambria Hotel & Suites Anaheim Resort Area",
+    "address": "PO BOX 89 HOLY CITY CA 95026-0089 USA",
+    "description": "Qui dignissimos excepturi corrupti in rem fugit mollitia ipsum recusandae facilis. Adipisci, reiciendis incidunt! Earum non aut error iure, mollitia molestias modi libero illum dolore, rem amet temporibus enim quam!",
+    "city":  "Hollywood"
+  },
+  {
+    "id": 9,
+    "name": "Hampton Inn & Suites San Bernardino",
+    "address": "PO BOX 21 HOLY CITY CA 95026-0021 USA",
+    "description": "Impedit earum, fuga ad accusantium molestiae dignissimos pariatur magni similique quo officiis, numquam itaque, cumque praesentium eligendi vel voluptates sunt assumenda a repellat hic molestias quia harum. Quae, sed eveniet.",
+    "city":  "Hollywood"
+  },
+  {
+    "id": 10,
+    "name": "FOUR SEASONS RESORT OAHU AT KO OLINA",
+    "address": "2453 BOOTH HONOLULU HI 96813-1389 USA",
+    "description": "Inventore, dolor dolorem similique in ab recusandae. Aperiam repellat dolore officiis consequatur qui dolorum, libero doloremque recusandae? Vel, dolorem quibusdam. Dicta alias eos necessitatibus! Modi rerum vel doloribus ipsum doloremque?",
+    "city":  "Honolulu"
+  },
+  {
+    "id": 11,
+    "name": "THE KAHALA HOTEL & RESORT",
+    "address": "2827 BOOTH HONOLULU HI 96813-1101 USA",
+    "description": "Asperiores quaerat optio eius alias adipisci nihil, ratione consequuntur commodi eos soluta molestias beatae ipsa animi, quia possimus culpa enim laudantium repellendus. Molestiae vitae provident eveniet, deleniti magni rerum incidunt.",
+    "city":  "Honolulu"
+  },
+  {
+    "id": 12,
+    "name": "HALEKULANI HOTEL",
+    "address": "PO BOX 4691 HONOLULU HI 96812-4691 USA",
+    "description": "Inventore sint eligendi illum amet asperiores, eum voluptas voluptates eos reprehenderit molestias nostrum ab pariatur ratione quia porro dolorem velit voluptate consequuntur qui voluptatem aliquam ea reiciendis! Ad, recusandae laudantium?",
+    "city":  "Honolulu"
+  },
+  {
+    "id": 13,
+    "name": "MONARCH BEACH",
+    "address": "PO BOX 2255 HONOLULU HI 96804-2255 USA",
+    "description": "Cumque saepe quam ea aperiam fugiat et atque nesciunt pariatur consectetur esse neque odio at natus, ratione reiciendis modi illo? Magnam blanditiis doloribus quaerat aspernatur itaque odit eius excepturi tempora.",
+    "city":  "Honolulu"
+  },
+  {
+    "id": 14,
+    "name": "MEADOWOOD NAPA VALLEY",
+    "address": "225 LIGHTHOUSE MONTEREY CA 93940-1429 USA",
+    "description": "Totam tempore molestiae doloribus, quae eveniet dolores reiciendis! Qui modi laudantium optio similique voluptatum rem itaque aut. Voluptatibus error, voluptatum quia rem aliquam tempora necessitatibus velit similique, molestiae, sed ex.",
+    "city":  "Monterey"
+  },
+  {
+    "id": 15,
+    "name": "AUBERGE DU SOLEIL",
+    "address": "791 FOAM MONTEREY CA 93940-1031 USA",
+    "description": "Numquam debitis itaque officia enim tenetur at eius, minus expedita, odit magni nisi! Totam nisi illo sint assumenda quae sunt voluptatum, velit quibusdam repudiandae cum officiis ullam sequi vero a!",
+    "city":  "Monterey"
+  },
+  {
+    "id": 16,
+    "name": "BACCARAT HOTEL AND RESIDENCES NEW YORK",
+    "address": "7 W 34TH NEW YORK NY 10001-0054 USA",
+    "description": "Ipsum maiores hic perferendis, inventore cupiditate quos fugiat quia perspiciatis temporibus rerum aut culpa laboriosam, similique mollitia soluta doloribus minima natus, ad voluptate? Voluptatum esse est debitis molestias delectus sunt.",
+    "city":  "New York"
+  },
+  {
+    "id": 17,
+    "name": "AMANGIRI",
+    "address": "PO BOX 41 VANCOUVER WY 82422-0041 CANADA",
+    "description": "Ex, nesciunt? Hic nisi quidem commodi repudiandae neque recusandae numquam laudantium facilis, voluptatem blanditiis voluptatibus reprehenderit quibusdam a doloribus eaque vel minima qui modi reiciendis! Ex laudantium mollitia dicta consectetur.",
+    "city":  "Vancouver"
+  }
+]
